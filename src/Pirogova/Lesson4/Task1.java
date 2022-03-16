@@ -9,7 +9,7 @@ public class Task1 {
             s+=l;
             l*=1.1;
             d++;
-        }while(d==7);
-        System.out.println("За 7 дней спортсмен пробежал " + s + " километров");
+        }while(d<=7);
+        System.out.println("За 7 дней спортсмен пробежал " + s + " км");
     }
 }
