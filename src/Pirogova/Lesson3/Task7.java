@@ -16,7 +16,7 @@ public class Task7 {
             System.out.println(n + " программистов");}
         }
         if(n>=21){
-            int d; //остатокот деления n на 10
+            int d; //остаток от деления n на 10
             d = n%10;
             switch (d){
                 case 1:
