@@ -18,7 +18,7 @@ public class Task6_Scanner {
 
         int maxValue = value1>value2?value1:value2;
 
-        System.out.println("")
+        System.out.println("");
         System.out.println("Максимальное число: " + maxValue);
 
 
