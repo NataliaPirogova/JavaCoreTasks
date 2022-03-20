@@ -7,7 +7,7 @@ public class Task1 {
         double s = 0; //суммарное расстояние
         do {
             s+=l;
-            l*=1.1;
+            l=l+0.1*l;
             d++;
         }while(d<=7);
         System.out.println("За 7 дней спортсмен пробежал " + s + " км");
