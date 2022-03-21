@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4734aae9-1314-4922-8751-f452d0091cc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="da185a98-157d-4dbf-b048-18bb8b2ce25f" name="Changes from shelf" comment="">
       <change beforePath="$PROJECT_DIR$/src/Pirogova/Lesson3/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pirogova/Lesson3/Task7.java" afterDir="false" />
@@ -57,6 +58,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.Task8_v1">
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,8 +118,9 @@
       </method>
     </configuration>
     <configuration name="Task8_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Pirogova.Lesson4.Task8_v1" />
-      <module name="JavaCoreTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Pirogova.Lesson4.*" />
@@ -147,14 +154,7 @@
       <workItem from="1647453375059" duration="6115000" />
       <workItem from="1647532885300" duration="5858000" />
       <workItem from="1647769349461" duration="10909000" />
-      <workItem from="1647887224087" duration="294000" />
-    </task>
-    <task id="LOCAL-00001" summary="Rename">
-      <created>1647368116994</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1647368116994</updated>
+      <workItem from="1647887224087" duration="721000" />
     </task>
     <task id="LOCAL-00002" summary="t1">
       <created>1647370029049</created>
@@ -492,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647887452869</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="ignore">
+      <created>1647887533239</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1647887533241</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

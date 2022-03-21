@@ -6,7 +6,7 @@ public class Task7 {
         if(n<=4){
             switch (n){
                 case 1:
-                    System.out.println(n + " программист");
+                    System.out.println(n + "  программист");
                     break;
                 case 2, 3, 4:
                     System.out.println(n + " программиста");
