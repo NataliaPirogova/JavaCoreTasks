@@ -1,0 +1,19 @@
+Index: src/Pirogova/Lesson3/Task7.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Pirogova.Lesson3;\r\n\r\npublic class Task7 {\r\n    public static void main(String[] args) {\r\n        int n = 1001; //количество программистов\r\n        if(n<=4){\r\n            switch (n){\r\n                case 1:\r\n                    System.out.println(n + \" программист\");\r\n                    break;\r\n                case 2, 3, 4:\r\n                    System.out.println(n + \" программиста\");\r\n                    break;\r\n            }\r\n        if(n>=5 && n<21){\r\n            System.out.println(n + \" программистов\");}\r\n        }\r\n        if(n>=21){\r\n            int d; //остаток от деления n на 10\r\n            d = n%10;\r\n            switch (d){\r\n                case 1:\r\n                    System.out.println(n + \" программист\");\r\n                    break;\r\n                case 2, 3, 4:\r\n                    System.out.println(n + \" программиста\");\r\n                    break;\r\n                case 5, 6, 7, 8, 9, 0:\r\n                    System.out.println(n + \" программистов\");\r\n                    break;\r\n            }\r\n        }\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Pirogova/Lesson3/Task7.java b/src/Pirogova/Lesson3/Task7.java
+--- a/src/Pirogova/Lesson3/Task7.java	(revision 2ac783c3e921837347638fa41aea8ef79daead18)
++++ b/src/Pirogova/Lesson3/Task7.java	(date 1647542923833)
+@@ -6,7 +6,7 @@
+         if(n<=4){
+             switch (n){
+                 case 1:
+-                    System.out.println(n + " программист");
++                    System.out.println(n + "  программист");
+                     break;
+                 case 2, 3, 4:
+                     System.out.println(n + " программиста");
